@@ -1,0 +1,10 @@
+@relation images-BUT_OWL-0418-2042-unknown.arff
+
+@attribute filename string
+@attribute class {BUTTERFLY,OWL}
+
+@data
+unknown_1.jpg,?
+unknown_2.jpg,?
+unknown_3.jpg,?
+unknown_4.jpg,?
